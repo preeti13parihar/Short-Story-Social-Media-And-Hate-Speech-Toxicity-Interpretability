@@ -6,3 +6,10 @@
 ##### 3. Video: https://drive.google.com/file/d/1BBf6kDGbnS0kX-07m3mfl93taQOq91jy/view?usp=sharing
 ##### 4. Research Paper: https://arxiv.org/pdf/2108.01062.pdf
 
+### ML model pipeline for hate speech
+
+![](1.jpeg)
+
+### WordCount representation of Toxicity micro-factors
+
+![](2.jpeg)
