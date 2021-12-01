@@ -16,9 +16,9 @@
 
 ![](4.png)
 
-#### Comments in each category
+#### Data Visiualization - Histogram
 
-![](5.png)
+![](3.png)
 
 #### Abstract:
 
